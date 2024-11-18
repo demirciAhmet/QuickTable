@@ -1,0 +1,119 @@
+atomicNumber;symbol;name;atomicMass;atomicRadius;period;group;summary;category;metallicProperty;block;phase;boilingPoint;meltingPoint;electronicConfiguration;electronegativity;oxidationStates;ionizationEnergy;electronAffinity;density;discoveryYear;discoveredBy;displayRow;displayColumn
+1;H;Hydrogen;1.008;0.79;1;1;;Non Metal;nonmetal;s;Gas;20.28;14.175;1s1;2.2;-1, 1;1312;-73;0.08988;1766;Henry Cavendish;1;1
+2;He;Helium;4.0026022;0.49;1;18;;Noble Gas;nonmetal;s;Gas;4.22;-1;1s2;-1;0;2372;0;0.1786;1868;Pierre Janssen;1;18
+3;Li;Lithium;6.94;2.1;2;1;;Alkali Metal;metal;s;Solid;1615;453.85;[He] 2s1;0.98;1;520;-60;0.534;1817;Johan August Arfwedson;2;1
+4;Be;Beryllium;9.01218315;1.4;2;2;;Alkaline Earth Metal;metal;s;Solid;2742;1560.15;[He] 2s2;1.57;2;900;0;1.85;1798;Louis Nicolas Vauquelin;2;2
+5;B;Boron;10.81;1.2;2;13;;Metalloid;metalloid;p;Solid;4200;2573.15;[He] 2s2 2p1;2.04;1, 2, 3;801;-27;2.08;1807;Joseph Louis Gay-Lussac;2;13
+6;C;Carbon;12.011;0.91;2;14;;Non Metal;nonmetal;p;Solid;4300;3948.15;[He] 2s2 2p2;2.55;-4, -3, -2, -1, 1, 2, 3, 4;1087;-154;1.821;-1;Ancient Egypt;2;14
+7;N;Nitrogen;14.007;0.75;2;15;;Non Metal;nonmetal;p;Gas;77.36;63.29;[He] 2s2 2p3;3.04;-3, -2, -1, 1, 2, 3, 4, 5;1402;-7;1.251;1772;Daniel Rutherford;2;15
+8;O;Oxygen;15.999;0.65;2;16;;Non Metal;nonmetal;p;Gas;90.2;50.5;[He] 2s2 2p4;3.44;-2, -1, 1, 2;1314;-141;1.429;1774;Carl Wilhelm Scheele;2;16
+9;F;Fluorine;18.9984031636;0.57;2;17;;Halogen;nonmetal;p;Gas;85.03;53.63;[He] 2s2 2p5;3.98;-1;1681;-328;1.696;1670;André-Marie Ampère;2;17
+10;Ne;Neon;20.17976;0.51;2;18;;Noble Gas;nonmetal;p;Gas;27.07;24.703;[He] 2s2 2p6;-1;0;2081;0;0.9002;1898;Morris Travers;2;18
+11;Na;Sodium;22.989769282;2.2;3;1;;Alkali Metal;metal;s;Solid;1156;371.15;[Ne] 3s1;0.93;-1, 1;496;-53;0.968;1807;Humphry Davy;3;1
+12;Mg;Magnesium;24.305;1.7;3;2;;Alkaline Earth Metal;metal;s;Solid;1363;923.15;[Ne] 3s2;1.31;1, 2;738;0;1.738;1808;Joseph Black;3;2
+13;Al;Aluminum;26.98153857;1.8;3;13;;Post-Transition Metal;metal;p;Solid;2792;933.4;[Ne] 3s2 3p1;1.61;1, 3;578;-43;2.7;-1;Wöhler;3;13
+14;Si;Silicon;28.085;1.5;3;14;;Metalloid;metalloid;p;Solid;3538;1683.15;[Ne] 3s2 3p2;1.9;-4, -3, -2, -1, 1, 2, 3, 4;787;-134;2.329;1854;Jöns Jacob Berzelius;3;14
+15;P;Phosphorus;30.9737619985;1.2;3;15;;Non Metal;nonmetal;p;Solid;553;317.25;[Ne] 3s2 3p3;2.19;-3, -2, -1, 1, 2, 3, 4, 5;1012;-72;1.823;1669;Hennig Brand;3;15
+16;S;Sulfur;32.06;1.1;3;16;;Non Metal;nonmetal;p;Solid;717.8;388.51;[Ne] 3s2 3p4;2.58;-2, -1, 1, 2, 3, 4, 5, 6;1000;-200;2.07;-1;Ancient china;3;16
+17;Cl;Chlorine;35.45;0.97;3;17;;Halogen;nonmetal;p;Gas;239.11;172.31;[Ne] 3s2 3p5;3.16;-1, 1, 2, 3, 4, 5, 6, 7;1251;-349;3.2;1774;Carl Wilhelm Scheele;3;17
+18;Ar;Argon;39.9481;0.88;3;18;;Noble Gas;nonmetal;p;Gas;87.3;83.96;[Ne] 3s2 3p6;-1;0;1521;0;1.784;1894;Lord Rayleigh;3;18
+19;K;Potassium;39.09831;2.8;4;1;;Alkali Metal;metal;s;Solid;1032;336.5;[Ar] 4s1;0.82;1;419;-48;0.862;1807;Humphry Davy;4;1
+20;Ca;Calcium;40.0784;2.2;4;2;;Alkaline Earth Metal;metal;s;Solid;1757;1112.15;[Ar] 4s2;1;2;590;-2;1.55;-1;Humphry Davy;4;2
+21;Sc;Scandium;44.9559085;2.1;4;3;;Transition Metal;metal;d;Solid;3109;1812.15;[Ar] 3d1 4s2;1.36;1, 2, 3;633;-18;2.985;1876;Lars Fredrik Nilson;4;3
+22;Ti;Titanium;47.8671;2;4;4;;Transition Metal;metal;d;Solid;3560;1933.15;[Ar] 3d2 4s2;1.54;-1, 2, 3, 4;659;-8;4.506;1791;William Gregor;4;4
+23;V;Vanadium;50.94151;1.9;4;5;;Transition Metal;metal;d;Solid;3680;2175.15;[Ar] 3d3 4s2;1.63;-1, 2, 3, 4;651;-51;6;1803;Andrés Manuel del Río;4;5
+24;Cr;Chromium;51.99616;1.9;4;6;;Transition Metal;metal;d;Solid;2944;2130.15;[Ar] 3d5 4s1;1.66;-2, -1, 1, 2, 3, 4, 5, 6;653;-64;7.19;-1;Louis Nicolas Vauquelin;4;6
+25;Mn;Manganese;54.9380443;1.8;4;7;;Transition Metal;metal;d;Solid;2334;1519.15;[Ar] 3d5 4s2;1.55;-3, -2, -1, 1, 2, 3, 4, 5, 6, 7;717;0;7.21;1774;Torbern Olof Bergman;4;7
+26;Fe;Iron;55.8452;1.7;4;8;;Transition Metal;metal;d;Solid;3134;1808.15;[Ar] 3d6 4s2;1.83;-2, -1, 1, 2, 3, 4, 5, 6;763;-16;7.874;-1;Prehistoric;4;8
+27;Co;Cobalt;58.9331944;1.7;4;9;;Transition Metal;metal;d;Solid;3200;1768.15;[Ar] 3d7 4s2;1.88;-1, 1, 2, 3, 4, 5;760;-64;8.9;-1;Georg Brandt;4;9
+28;Ni;Nickel;58.69344;1.6;4;10;;Transition Metal;metal;d;Solid;3186;1726.15;[Ar] 3d8 4s2;1.91;-1, 1, 2, 3, 4;737;-112;8.908;1751;Axel Fredrik Cronstedt;4;10
+29;Cu;Copper;63.5463;1.6;4;11;;Transition Metal;metal;d;Solid;2835;1357.75;[Ar] 3d10 4s1;1.9;1, 2, 3, 4;746;-118;8.96;-1;Middle East;4;11
+30;Zn;Zinc;65.382;1.5;4;12;;Transition Metal;metal;d;Solid;1180;692.88;[Ar] 3d10 4s2;1.65;2;906;0;7.14;1746;India;4;12
+31;Ga;Gallium;69.7231;1.8;4;13;;Post-Transition Metal;metal;p;Solid;2477;302.91;[Ar] 3d10 4s2 4p1;1.81;1, 2, 3;579;-29;5.91;1875;Lecoq de Boisbaudran;4;13
+32;Ge;Germanium;72.6308;1.5;4;14;;Metalloid;metalloid;p;Solid;3106;1211.45;[Ar] 3d10 4s2 4p2;2.01;-4, 1, 2, 3, 4;762;-119;5.323;1886;Clemens Winkler;4;14
+33;As;Arsenic;74.9215956;1.3;4;15;;Metalloid;metalloid;p;Solid;887;1090.15;[Ar] 3d10 4s2 4p3;2.18;-3, 2, 3, 5;947;-78;5.727;-1;Bronze Age;4;15
+34;Se;Selenium;78.9718;1.2;4;16;;Non Metal;nonmetal;p;Solid;958;494.15;[Ar] 3d10 4s2 4p4;2.55;-2, 2, 4, 6;941;-195;4.81;1817;Jöns Jakob Berzelius;4;16
+35;Br;Bromine;79.904;1.1;4;17;;Halogen;nonmetal;p;Liquid;332;266.05;[Ar] 3d10 4s2 4p5;2.96;-1, 1, 3, 4, 5, 7;1140;-325;3.1028;1826;Antoine Jérôme Balard;4;17
+36;Kr;Krypton;83.7982;1;4;18;;Noble Gas;nonmetal;p;Gas;119.93;115.93;[Ar] 3d10 4s2 4p6;-1;2;1351;0;3.749;1898;William Ramsay;4;18
+37;Rb;Rubidium;85.46783;3;5;1;;Alkali Metal;metal;s;Solid;961;312.79;[Kr] 5s1;0.82;1;403;-47;1.532;1861;Robert Bunsen;5;1
+38;Sr;Strontium;87.621;2.5;5;2;;Alkaline Earth Metal;metal;s;Solid;1655;1042.15;[Kr] 5s2;0.95;2;550;-5;2.64;1790;William Cruickshank (chemist);5;2
+39;Y;Yttrium;88.905842;2.3;5;3;;Transition Metal;metal;d;Solid;3609;1799.15;[Kr] 4d1 5s2;1.22;1, 2, 3;600;-30;4.472;1794;Johan Gadolin;5;3
+40;Zr;Zirconium;91.2242;2.2;5;4;;Transition Metal;metal;d;Solid;4682;2125.15;[Kr] 4d2 5s2;1.33;1, 2, 3, 4;640;-41;6.52;1789;Martin Heinrich Klaproth;5;4
+41;Nb;Niobium;92.906372;2.1;5;5;;Transition Metal;metal;d;Solid;5017;2741.15;[Kr] 4d4 5s1;1.6;-1, 2, 3, 4, 5;652;-86;8.57;1801;Charles Hatchett;5;5
+42;Mo;Molybdenum;95.951;2;5;6;;Transition Metal;metal;d;Solid;4912;2890.15;[Kr] 4d5 5s1;2.16;-2, -1, 1, 2, 3, 4, 5, 6;684;-72;10.28;1778;Carl Wilhelm Scheele;5;6
+43;Tc;Technetium;98;2;5;7;;Transition Metal;metal;d;Solid;5150;2473.15;[Kr] 4d5 5s2;1.9;-3, -1, 1, 2, 3, 4, 5, 6, 7;702;-53;11;1937;Emilio Segrè;5;7
+44;Ru;Ruthenium;101.072;1.9;5;8;;Transition Metal;metal;d;Solid;4423;2523.15;[Kr] 4d7 5s1;2.2;-2, 1, 2, 3, 4, 5, 6, 7, 8;710;-101;12.45;1827;Karl Ernst Claus;5;8
+45;Rh;Rhodium;102.905502;1.8;5;9;;Transition Metal;metal;d;Solid;3968;2239.15;[Kr] 4d8 5s1;2.28;-1, 1, 2, 3, 4, 5, 6;720;-110;12.41;1803;William Hyde Wollaston;5;9
+46;Pd;Palladium;106.421;1.8;5;10;;Transition Metal;metal;d;Solid;3236;1825.15;[Kr] 4d10;2.2;2, 4;804;-54;12.023;1803;William Hyde Wollaston;5;10
+47;Ag;Silver;107.86822;1.8;5;11;;Transition Metal;metal;d;Solid;2435;1234.15;[Kr] 4d10 5s1;1.93;1, 2, 3;731;-126;10.49;-1;unknown;5;11
+48;Cd;Cadmium;112.4144;1.7;5;12;;Transition Metal;metal;d;Solid;1040;594.33;[Kr] 4d10 5s2;1.69;2;868;0;8.65;1817;Karl Samuel Leberecht Hermann;5;12
+49;In;Indium;114.8181;2;5;13;;Post-Transition Metal;metal;p;Solid;2345;429.91;[Kr] 4d10 5s2 5p1;1.78;1, 2, 3;558;-29;7.31;1863;Ferdinand Reich;5;13
+50;Sn;Tin;118.7107;1.7;5;14;;Post-Transition Metal;metal;p;Solid;2875;505.21;[Kr] 4d10 5s2 5p2;1.96;-4, 2, 4;709;-107;7.365;-1;unknown;5;14
+51;Sb;Antimony;121.7601;1.5;5;15;;Metalloid;metalloid;p;Solid;1860;904.05;[Kr] 4d10 5s2 5p3;2.05;-3, 3, 5;834;-103;6.697;-1;unknown;5;15
+52;Te;Tellurium;127.603;1.4;5;16;;Metalloid;metalloid;p;Solid;1261;722.8;[Kr] 4d10 5s2 5p4;2.1;-2, 2, 4, 5, 6;869;-190;6.24;1782;Franz-Joseph Müller von Reichenstein;5;16
+53;I;Iodine;126.904473;1.3;5;17;;Halogen;nonmetal;p;Solid;457.4;386.65;[Kr] 4d10 5s2 5p5;2.66;-1, 1, 3, 5, 7;1008;-295;4.933;1811;Bernard Courtois;5;17
+54;Xe;Xenon;131.2936;1.2;5;18;;Noble Gas;nonmetal;p;Gas;165.03;161.45;[Kr] 4d10 5s2 5p6;-1;2, 4, 6, 8;1170;0;5.894;1898;William Ramsay;5;18
+55;Cs;Cesium;132.905451966;3.3;6;1;;Alkali Metal;metal;s;Solid;944;301.7;[Xe] 6s1;0.79;1;376;-46;1.93;1860;Robert Bunsen;6;1
+56;Ba;Barium;137.3277;2.8;6;2;;Alkaline Earth Metal;metal;s;Solid;2170;1002.15;[Xe] 6s2;0.89;2;503;-14;3.51;1808;Carl Wilhelm Scheele;6;2
+57;La;Lanthanum;138.905477;2.7;6;3;;Lanthanide;metal;f;Solid;3737;1193.15;[Xe] 5d1 6s2;1.1;2, 3;538;-48;6.162;1839;Carl Gustaf Mosander;9;3
+58;Ce;Cerium;140.1161;2.7;6;3;;Lanthanide;metal;f;Solid;3716;1071.15;[Xe] 4f1 5d1 6s2;1.12;2, 3, 4;534;-50;6.77;1803;Martin Heinrich Klaproth;9;4
+59;Pr;Praseodymium;140.907662;2.7;6;3;;Lanthanide;metal;f;Solid;3793;1204.15;[Xe] 4f3 6s2;1.13;2, 3, 4;527;-50;6.77;1885;Carl Auer von Welsbach;9;5
+60;Nd;Neodymium;144.2423;2.6;6;3;;Lanthanide;metal;f;Solid;3347;1289.15;[Xe] 4f4 6s2;1.14;2, 3;533;-50;7.01;1885;Carl Auer von Welsbach;9;6
+61;Pm;Promethium;145;2.6;6;3;;Lanthanide;metal;f;Solid;3273;1204.15;[Xe] 4f5 6s2;1.13;3;540;-50;7.26;1947;Chien Shiung Wu;9;7
+62;Sm;Samarium;150.362;2.6;6;3;;Lanthanide;metal;f;Solid;2067;1345.15;[Xe] 4f6 6s2;1.17;2, 3;545;-50;7.52;1853;Lecoq de Boisbaudran;9;8
+63;Eu;Europium;151.9641;2.6;6;3;;Lanthanide;metal;f;Solid;1802;1095.15;[Xe] 4f7 6s2;1.2;2, 3;547;-50;5.264;1901;Eugène-Anatole Demarçay;9;9
+64;Gd;Gadolinium;157.253;2.5;6;3;;Lanthanide;metal;f;Solid;3546;1585.15;[Xe] 4f7 5d1 6s2;1.2;1, 2, 3;593;-50;7.9;1880;Jean Charles Galissard de Marignac;9;10
+65;Tb;Terbium;158.925352;2.5;6;3;;Lanthanide;metal;f;Solid;3503;1630.15;[Xe] 4f9 6s2;1.2;1, 3, 4;566;-50;8.23;1843;Carl Gustaf Mosander;9;11
+66;Dy;Dysprosium;162.5001;2.5;6;3;;Lanthanide;metal;f;Solid;2840;1680.15;[Xe] 4f10 6s2;1.22;2, 3;573;-50;8.54;1886;Lecoq de Boisbaudran;9;12
+67;Ho;Holmium;164.930332;2.5;6;3;;Lanthanide;metal;f;Solid;2993;1743.15;[Xe] 4f11 6s2;1.23;3;581;-50;8.79;1878;Marc Delafontaine;9;13
+68;Er;Erbium;167.2593;2.5;6;3;;Lanthanide;metal;f;Solid;3503;1795.15;[Xe] 4f12 6s2;1.24;3;589;-50;9.066;1842;Carl Gustaf Mosander;9;14
+69;Tm;Thulium;168.934222;2.4;6;3;;Lanthanide;metal;f;Solid;2223;1818.15;[Xe] 4f13 6s2;1.25;2, 3;597;-50;9.32;1879;Per Teodor Cleve;9;15
+70;Yb;Ytterbium;173.0451;2.4;6;3;;Lanthanide;metal;f;Solid;1469;1097.15;[Xe] 4f14 6s2;1.1;2, 3;603;-50;6.9;1878;Jean Charles Galissard de Marignac;9;16
+71;Lu;Lutetium;174.96681;2.3;6;3;;Lanthanide;metal;f;Solid;3675;1936.15;[Xe] 4f14 5d1 6s2;1.27;3;524;-50;9.841;1907;Georges Urbain;9;17
+72;Hf;Hafnium;178.492;2.2;6;4;;Transition Metal;metal;d;Solid;4876;2500.15;[Xe] 4f14 5d2 6s2;1.3;2, 3, 4;659;0;13.31;1923;Dirk Coster;6;4
+73;Ta;Tantalum;180.947882;2.1;6;5;;Transition Metal;metal;d;Solid;5731;3269.15;[Xe] 4f14 5d3 6s2;1.5;-1, 2, 3, 4, 5;761;-31;16.69;1802;Anders Gustaf Ekeberg;6;5
+74;W;Tungsten;183.841;2;6;6;;Transition Metal;metal;d;Solid;5828;3680.15;[Xe] 4f14 5d4 6s2;2.36;-2, -1, 1, 2, 3, 4, 5, 6;770;-79;19.25;1783;Carl Wilhelm Scheele;6;6
+75;Re;Rhenium;186.2071;2;6;7;;Transition Metal;metal;d;Solid;5869;3453.15;[Xe] 4f14 5d5 6s2;1.9;-3, -1, 1, 2, 3, 4, 5, 6, 7;760;-15;21.02;1925;Masataka Ogawa;6;7
+76;Os;Osmium;190.233;1.9;6;8;;Transition Metal;metal;d;Solid;5285;3300.15;[Xe] 4f14 5d6 6s2;2.2;-2, -1, 1, 2, 3, 4, 5, 6, 7, 8;840;-106;22.59;1803;Smithson Tennant;6;8
+77;Ir;Iridium;192.2173;1.9;6;9;;Transition Metal;metal;d;Solid;4701;2716.15;[Xe] 4f14 5d7 6s2;2.2;-3, -1, 1, 2, 3, 4, 5, 6;880;-151;22.56;1803;Smithson Tennant;6;9
+78;Pt;Platinum;195.0849;1.8;6;10;;Transition Metal;metal;d;Solid;4098;2045.15;[Xe] 4f14 5d9 6s1;2.28;2, 4, 5, 6;870;-205;21.45;-1;Antonio de Ulloa;6;10
+79;Au;Gold;196.9665695;1.8;6;11;;Transition Metal;metal;d;Solid;3129;1337.73;[Xe] 4f14 5d10 6s1;2.54;-1, 1, 2, 3, 5;890;-223;19.3;-1;Middle East;6;11
+80;Hg;Mercury;200.5923;1.8;6;12;;Transition Metal;metal;d;Liquid;630;234.43;[Xe] 4f14 5d10 6s2;2;1, 2, 4;1007;0;13.534;-1;unknown;6;12
+81;Tl;Thallium;204.38;2.1;6;13;;Post-Transition Metal;metal;p;Solid;1746;577.15;[Xe] 4f14 5d10 6s2 6p1;2.04;1, 3;589;-19;11.85;1861;William Crookes;6;13
+82;Pb;Lead;207.21;1.8;6;14;;Post-Transition Metal;metal;p;Solid;2022;600.75;[Xe] 4f14 5d10 6s2 6p2;2.33;-4, 2, 4;716;-35;11.34;-1;Middle East;6;14
+83;Bi;Bismuth;208.980401;1.6;6;15;;Post-Transition Metal;metal;p;Solid;1837;544.67;[Xe] 4f14 5d10 6s2 6p3;2.02;-3, 3, 5;703;-91;9.78;-1;Claude François Geoffroy;6;15
+84;Po;Polonium;209;1.5;6;16;;Metalloid;metalloid;p;Solid;1235;527.15;[Xe] 4f14 5d10 6s2 6p4;2;-2, 2, 4, 6;812;-183;9.196;1898;Pierre Curie;6;16
+85;At;Astatine;210;1.4;6;17;;Halogen;nonmetal;p;Solid;610;575.15;[Xe] 4f14 5d10 6s2 6p5;2.2;-1, 1, 3, 5;920;-270;6.35;1940;Dale R. Corson;6;17
+86;Rn;Radon;222;1.3;6;18;;Noble Gas;nonmetal;p;Gas;211.3;202.15;[Xe] 4f14 5d10 6s2 6p6;;2;1037;0;9.73;1900;Friedrich Ernst Dorn;6;18
+87;Fr;Francium;223;-1;7;1;;Alkali Metal;metal;s;Solid;950;300.15;[Rn] 7s1;0.7;1;380;0;1.87;1939;Marguerite Perey;7;1
+88;Ra;Radium;226;-1;7;2;;Alkaline Earth Metal;metal;s;Solid;2010;973.15;[Rn] 7s2;0.9;2;509;0;5.5;1898;Pierre Curie;7;2
+89;Ac;Actinium;227;-1;7;3;;Actinide;metal;f;Solid;3471;1323.15;[Rn] 6d1 7s2;1.1;3;499;0;10;1899;Friedrich Oskar Giesel;10;3
+90;Th;Thorium;232.03774;-1;7;3;;Actinide;metal;f;Solid;5061;2028.15;[Rn] 6d2 7s2;1.3;2, 3, 4;587;0;11.724;1828;Jöns Jakob Berzelius;10;4
+91;Pa;Protactinium;231.035882;-1;7;3;;Actinide;metal;f;Solid;4300;1873.15;[Rn] 5f2 6d1 7s2;1.5;3, 4, 5;568;0;15.37;1913;William Crookes;10;5
+92;U;Uranium;238.028913;-1;7;3;;Actinide;metal;f;Solid;4404;1405.15;[Rn] 5f3 6d1 7s2;1.38;3, 4, 5, 6;598;0;19.1;1789;Martin Heinrich Klaproth;10;6
+93;Np;Neptunium;237;-1;7;3;;Actinide;metal;f;Solid;4273;913.15;[Rn] 5f4 6d1 7s2;1.36;3, 4, 5, 6, 7;605;0;20.45;1940;Edwin McMillan;10;7
+94;Pu;Plutonium;244;-1;7;3;;Actinide;metal;f;Solid;3501;913.15;[Rn] 5f6 7s2;1.28;3, 4, 5, 6, 7;585;0;19.816;1940;Glenn T. Seaborg;10;8
+95;Am;Americium;243;-1;7;3;;Actinide;metal;f;Solid;2880;1267.15;[Rn] 5f7 7s2;1.3;2, 3, 4, 5, 6;578;0;12;1944;Glenn T. Seaborg;10;9
+96;Cm;Curium;247;-1;7;3;;Actinide;metal;f;Solid;3383;1340.15;[Rn] 5f7 6d1 7s2;1.3;3, 4;581;0;13.51;1944;Glenn T. Seaborg;10;10
+97;Bk;Berkelium;247;-1;7;3;;Actinide;metal;f;Solid;2900;1259.15;[Rn] 5f9 7s2;1.3;3, 4;601;0;14.78;1949;Lawrence Berkeley National Laboratory;10;11
+98;Cf;Californium;251;-1;7;3;;Actinide;metal;f;Solid;1743;1925.15;[Rn] 5f10 7s2;1.3;2, 3, 4;608;0;15.1;1950;Lawrence Berkeley National Laboratory;10;12
+99;Es;Einsteinium;252;-1;7;3;;Actinide;metal;f;Solid;1269;1133.15;[Rn] 5f11 7s2;1.3;2, 3;619;0;8.84;1952;Lawrence Berkeley National Laboratory;10;13
+100;Fm;Fermium;257;-1;7;3;;Actinide;metal;f;Solid;-1;1800;[Rn] 5f12 7s2;1.3;2, 3;627;0;-1;1952;Lawrence Berkeley National Laboratory;10;14
+101;Md;Mendelevium;258;-1;7;3;;Actinide;metal;f;Solid;-1;1100;[Rn] 5f13 7s2;1.3;2, 3;635;0;-1;1955;Lawrence Berkeley National Laboratory;10;15
+102;No;Nobelium;259;-1;7;3;;Actinide;metal;f;Solid;-1;1100;[Rn] 5f14 7s2;1.3;2, 3;642;0;-1;1957;Joint Institute for Nuclear Research;10;16
+103;Lr;Lawrencium;266;-1;7;3;;Actinide;metal;f;Solid;-1;1900;[Rn] 5f14 7s2 7p1;1.3;3;-1;0;-1;1961;Lawrence Berkeley National Laboratory;10;17
+104;Rf;Rutherfordium;267;-1;7;4;;Transition Metal;metal;d;Solid;5800;2400;[Rn] 5f14 6d2 7s2;-1;4;-1;0;23.2;1969;Joint Institute for Nuclear Research;7;4
+105;Db;Dubnium;268;-1;7;5;;Transition Metal;metal;d;Solid;-1;-1;[Rn] 5f14 6d3 7s2;-1;0;-1;0;29.3;1967;Joint Institute for Nuclear Research;7;5
+106;Sg;Seaborgium;269;-1;7;6;;Transition Metal;metal;d;Solid;-1;-1;[Rn] 5f14 6d4 7s2;-1;0;-1;0;35;1974;Lawrence Berkeley National Laboratory;7;6
+107;Bh;Bohrium;270;-1;7;7;;Transition Metal;metal;d;Solid;-1;-1;[Rn] 5f14 6d5 7s2;-1;0;-1;0;37.1;1976;Gesellschaft für Schwerionenforschung;7;7
+108;Hs;Hassium;269;-1;7;8;;Transition Metal;metal;d;Solid;-1;126;[Rn] 5f14 6d6 7s2;-1;0;-1;0;40.7;1984;Gesellschaft für Schwerionenforschung;7;8
+109;Mt;Meitnerium;278;-1;7;9;;Transition Metal;metal;d;Solid;-1;-1;[Rn] 5f14 6d7 7s2;-1;0;-1;0;37.4;1982;Gesellschaft für Schwerionenforschung;7;9
+110;Ds;Darmstadtium;281;-1;7;10;;Transition Metal;metal;d;Solid;-1;-1;[Rn] 5f14 6d9 7s1;-1;0;-1;0;34.8;1994;Gesellschaft für Schwerionenforschung;7;10
+111;Rg;Roentgenium;282;-1;7;11;;Transition Metal;metal;d;Solid;-1;-1;[Rn] 5f14 6d10 7s1;-1;0;-1;0;28.7;1994;Gesellschaft für Schwerionenforschung;7;11
+112;Cn;Copernicium;285;-1;7;12;;Transition Metal;metal;d;Liquid;3570;-1;[Rn] 5f14 6d10 7s2;-1;0;-1;0;14;1996;Gesellschaft für Schwerionenforschung;7;12
+113;Nh;Nihonium;286;-1;7;13;;Post-Transition Metal;metal;p;Solid;-1;700;[Rn] 5f14 6d10 7s2 7p1;-1;0;-1;0;16;2003;RIKEN;7;13
+114;Fl;Flerovium;289;-1;7;14;;(undefined);metal;p;Solid;-1;340;[Rn] 5f14 6d10 7s2 7p2;-1;0;-1;0;14;1998;Joint Institute for Nuclear Research;7;14
+115;Mc;Moscovium;289;-1;7;15;;(undefined);metal;p;Solid;-1;670;[Rn] 5f14 6d10 7s2 7p3;-1;0;-1;0;13.5;2003;Joint Institute for Nuclear Research;7;15
+116;Lv;Livermorium;293;-1;7;16;;(undefined);metal;p;Solid;-1;709;[Rn] 5f14 6d10 7s2 7p4;-1;0;-1;0;12.9;2000;Joint Institute for Nuclear Research;7;16
+117;Ts;Tennessine;294;-1;7;17;;(undefined);metal;p;Solid;-1;723;[Rn] 5f14 6d10 7s2 7p5;-1;0;-1;0;7.17;2010;Joint Institute for Nuclear Research;7;17
+118;Og;Oganesson;294;-1;7;18;;(undefined);nonmetal;p;Solid;-1;-1;[Rn] 5f14 6d10 7s2 7p6;-1;0;-1;0;4.95;2002;Joint Institute for Nuclear Research;7;18

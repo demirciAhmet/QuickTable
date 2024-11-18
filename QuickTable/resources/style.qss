@@ -1,0 +1,46 @@
+
+
+/* style_tableSection.qss */
+
+/* Basic button styling */
+QPushButton {
+    color: #ffffff;
+    border-radius: 8px;
+}
+
+QPushButton:checked {
+    background-color: #282a33; /* Set the background color when toggled */
+}
+
+/* Hover effect */
+QPushButton:hover {
+    border: 1px solid #2c3e50;
+}
+
+/* Pressed effect
+QPushButton:pressed {
+    border: 1px solid #1f2c38;
+}*/
+
+/* Disabled state */
+QPushButton:disabled {
+    background-color: #bdc3c7;
+    color: #7f8c8d;
+    border: 1px solid #95a5a6;
+}
+
+
+
+/* Apply border-radius to labels with "lblColor" in their name */
+QLabel {
+    border-radius: 7px;
+    padding: 2px;
+}
+
+QDialog {
+    background-color: #313a46; /* Set the background color for dialogs */
+}
+
+
+
+
